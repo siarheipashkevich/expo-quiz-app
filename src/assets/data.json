@@ -1,0 +1,1319 @@
+{
+    "data": {
+        "name": "Exam Prep",
+        "categories": [
+            {
+                "id": 6,
+                "app_id": 23,
+                "name": "Participate in Curriculum Design and Evaluation of Program Outcomes"
+            },
+            {
+                "id": 7,
+                "app_id": 23,
+                "name": "Engage in Scholarship"
+            },
+            {
+                "id": 8,
+                "app_id": 23,
+                "name": "Use Assessment and Evaluation Strategies"
+            },
+            {
+                "id": 9,
+                "app_id": 23,
+                "name": "Facilitate Learning"
+            },
+            {
+                "id": 10,
+                "app_id": 23,
+                "name": "Pursue Continuous Quality Improvement in the Academic Nurse Educator Role"
+            },
+            {
+                "id": 11,
+                "app_id": 23,
+                "name": "Facilitate Learner Development and Socialization"
+            },
+            {
+                "id": 4140,
+                "app_id": 23,
+                "name": "Function as a Change Agent and Leader"
+            },
+            {
+                "id": 4141,
+                "app_id": 23,
+                "name": "Function within the Organizational Environment and the Academic Community"
+            }
+        ],
+        "questions": [
+            {
+                "id": 12406,
+                "app_id": 23,
+                "category_id": 6,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 84.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Aspects of effective program evaluation include all of the following except:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Focuses solely on quantitative data"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Effective program evaluation involves a comprehensive approach that combines both quantitative and qualitative measures. It should include formative and summative evaluations, utilize multiple data sources, and incorporate feedback from various stakeholders to provide a holistic view of the program's impact."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Focuses solely on quantitative data"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Includes both formative and summative evaluations"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Utilizes multiple data sources for a comprehensive review"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Incorporates feedback from stakeholders"
+                    }
+                ]
+            },
+            {
+                "id": 12407,
+                "app_id": 23,
+                "category_id": 7,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 372.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Among the various models of effective teaching in nursing education, several common characteristics or criteria can be identified. All of the following are shared traits or criteria, **except**:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: All students must adhere to a rigid curriculum"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Many models of effective teaching in nursing education, such as the following, share several traits or criteria:"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Model",
+                                "Key Traits"
+                            ],
+                            [
+                                "Constructivist Model",
+                                "Engaged and satisfied students; Innovative teaching strategies"
+                            ],
+                            [
+                                "Experiential Learning Model",
+                                "Plan for continuous professional development; Engaged and satisfied students"
+                            ],
+                            [
+                                "Reflective Practice Model",
+                                "Innovative teaching strategies; Plan for continuous professional development"
+                            ],
+                            [
+                                "Collaborative Learning Model",
+                                "Engaged and satisfied students; Innovative teaching strategies"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "Common characteristics include engaged and satisfied students, innovative teaching strategies, and continuous professional development. A rigid curriculum is not typically considered a characteristic of effective teaching models."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "All students must adhere to a rigid curriculum"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Engaged and satisfied students"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Innovative teaching strategies"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Plan for continuous professional development"
+                    }
+                ]
+            },
+            {
+                "id": 12408,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 57.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "What is the primary purpose of clinical simulation debriefing sessions in nursing education?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "The correct answer is: To allow students to reflect on their performance and link theoretical knowledge to clinical practice."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Clinical simulation debriefing sessions are essential in nursing education as they provide students with opportunities to reflect on their actions, receive feedback, and connect theoretical knowledge with real-life clinical scenarios."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "To allow students to reflect on their performance and link theoretical knowledge to clinical practice"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "To provide a summative assessment of students' clinical skills"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "To assess students' knowledge solely on objective criteria"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "To evaluate students' performance using subjective judgment without measurable criteria"
+                    }
+                ]
+            },
+            {
+                "id": 12409,
+                "app_id": 23,
+                "category_id": 7,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 372.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Educational institutions are increasingly required to adapt to evolving technological advancements. An institution can enhance its technological integration by taking all of the following actions **except**:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Resisting change"
+                    },
+                    {
+                        "type": "text",
+                        "content": "To effectively integrate technology into educational institutions, it is critical to invest in training, utilize updated software, and encourage innovation. Resisting change impedes progress and adaptability, which are essential for technological integration."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Resisting change"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Investing in training"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Utilizing updated software"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Encouraging innovation"
+                    }
+                ]
+            },
+            {
+                "id": 12410,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 63.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following methods is **not** used to measure the validity of a clinical assessment tool?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Cronbach's Alpha"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Validity is the extent to which a test measures what it claims to measure. Methods commonly used to assess validity include content validity, criterion validity, and construct validity."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Cronbach's Alpha is used to measure the internal consistency or reliability of a test, not its validity."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Cronbach's Alpha"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Content validity"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Criterion validity"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Construct validity"
+                    }
+                ]
+            },
+            {
+                "id": 12411,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 55-56.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "A nurse educator is overseeing students during their final clinical experience in a geriatric care unit. She has provided the students with learning objectives for this final clinical experience, one of which is \"The student will accurately administer intramuscular injections to elderly patients.\" The most appropriate measure of performance in this scenario would be to have the students:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Administer intramuscular injections to elderly patients, ensuring proper technique and adherence to safety guidelines. When measuring what students have learned in a course, especially hands-on skills, it is important for the nurse educator to ensure that the learning objectives are clear and the assessment methods valid and reliable. In this context, having the students actually perform intramuscular injections on elderly patients is the most appropriate measure of their skill. If it is not feasible to have access to actual patients, a suitable alternative would be to demonstrate this skill in a simulation laboratory. Asking the students to explain pharmacokinetics or the rationale behind the technique will not sufficiently assess their practical ability to administer the injections accurately."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Administer intramuscular injections to elderly patients, ensuring proper technique and adherence to safety guidelines."
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Explain the pharmacokinetics and pharmacodynamics of medications commonly administered via intramuscular injection to elderly patients."
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Demonstrate the administration of intramuscular injections in a simulation laboratory."
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Require the students to explain the rationale for intramuscular injection techniques as a nurse administers them to a patient."
+                    }
+                ]
+            },
+            {
+                "id": 12412,
+                "app_id": 23,
+                "category_id": 7,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 120.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following examples **most** closely represents a revolutionary, or transformative, change in clinical practice?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: A nursing leader learns about a new electronic health record (EHR) system that significantly improves patient care coordination. Without involving other staff or administration, she purchases the system and implements it across the department within weeks, replacing all prior documentation processes."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The revolutionary, or transformative, change process is one that rapidly overhauls an organization using new technologies, altering its structure, processes, and/or culture. Quickly implementing a new EHR system without broader involvement is an extreme example of transformative change."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Learning about a new technology, involving other staff, discussing through articles, and setting a gradual plan is an example of **evolutionary change**."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Introducing a less radical technology to enhance processes is an example of **developmental change**."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Transitioning from a current technology to a more advanced one over time is an example of **transitional change**."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "A nursing leader learns about a new electronic health record (EHR) system that significantly improves patient care coordination. Without involving other staff or administration, she purchases the system and implements it across the department within weeks, replacing all prior documentation processes."
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "A nursing leader learns about a new EHR system and provides staff with articles and training sessions, obtaining approval from administration and setting a timeline for gradual implementation."
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "A nursing leader learns about a new EHR system and proposes the use of tablets for patient documentation, allowing nurses to input data in real-time."
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "A nursing leader learns about using tablets for patient documentation and replaces the existing paper charting method with this technology, planning to transition to a fully electronic system over time."
+                    }
+                ]
+            },
+            {
+                "id": 12413,
+                "app_id": 23,
+                "category_id": 6,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 320.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following organizations originated models that support competency-based nursing education?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: National League for Nursing"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Competency-based nursing education models have been supported by organizations such as the National League for Nursing (NLN). These models focus on the development of specific competencies in nursing education to ensure quality and safety in patient care."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Key concepts in these models include clinical reasoning, evidence-based practice, and quality improvement, which are integral aspects of ensuring competent nursing practice."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "National League for Nursing"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "American Nurses Association"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "National Council of State Boards of Nursing"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "American Red Cross"
+                    }
+                ]
+            },
+            {
+                "id": 12414,
+                "app_id": 23,
+                "category_id": 9,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 161.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Educational theorist Malcolm Knowles posited that:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Adult learners are self-directed and expect to take responsibility for decisions. Malcolm Knowles was the father of andragogy, the art and science of helping adults learn. He posited that adults are self-directed learners who bring a wealth of experience to the learning process, which is essential in the design of educational experiences for adults."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The belief that learning is a process of connecting new information to existing knowledge stems from cognitivism, linked to theorists such as Piaget and Vygotsky."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The importance of reinforcement from the environment in learning is a principle of behaviorism, which was promoted by theorists like Skinner and Pavlov."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The idea that learning involves stages to be completed in a specific sequence is a principle from stage-based learning theories, such as those proposed by Piaget."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Adult learners are self-directed and expect to take responsibility for decisions"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Learning is a process of connecting new information to existing knowledge"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "The most critical factor in learning is reinforcement from the environment"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Learning involves stages that must be completed in a specific sequence"
+                    }
+                ]
+            },
+            {
+                "id": 12415,
+                "app_id": 23,
+                "category_id": 10,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 97.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "When evaluating the effectiveness of a new teaching strategy in nursing education, which of the following elements is **not** directly relevant to continuous quality improvement in the academic nurse educator role?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Personal leisure activities"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Continuous quality improvement (CQI) in the academic nurse educator role involves refining teaching strategies to enhance student outcomes, faculty development, and curriculum relevance. Metrics like student performance, faculty professional growth, and curriculum quality are central to CQI. Personal leisure activities, while important for overall well-being, do not directly impact the academic or professional aspects relevant to CQI in nursing education."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Personal leisure activities"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Student performance metrics"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Faculty professional development"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Curriculum evaluation"
+                    }
+                ]
+            },
+            {
+                "id": 12464,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 59.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "**Refer to the details provided to answer the following question.**"
+                    },
+                    {
+                        "type": "text",
+                        "content": "A nurse educator is designing a comprehensive exam and has already prepared her test blueprint. Based on the provided blueprint, how many questions will evaluate the students' **application** of nursing diagnosis?"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Outcome/Content Area",
+                                "% of Exam in Content Area",
+                                "Cognitive Level: Knowledge",
+                                "Cognitive Level: Comprehension",
+                                "Cognitive Level: Application"
+                            ],
+                            [
+                                "Assessment",
+                                "25%",
+                                "8",
+                                "7",
+                                "9"
+                            ],
+                            [
+                                "Diagnosis",
+                                "20%",
+                                "6",
+                                "6",
+                                "8"
+                            ],
+                            [
+                                "Planning",
+                                "15%",
+                                "4",
+                                "4",
+                                "7"
+                            ],
+                            [
+                                "Intervention",
+                                "15%",
+                                "5",
+                                "5",
+                                "7"
+                            ],
+                            [
+                                "Evaluation",
+                                "25%",
+                                "7",
+                                "8",
+                                "9"
+                            ],
+                            [
+                                "Total",
+                                "100%",
+                                "30",
+                                "30",
+                                "40"
+                            ]
+                        ]
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: 8"
+                    },
+                    {
+                        "type": "text",
+                        "content": "According to the test blueprint in the details, the nurse educator plans to write eight questions that test the students' **application** of nursing diagnosis."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Eight questions will test the students' application level in the cognitive domain for nursing diagnosis."
+                    },
+                    {
+                        "type": "text",
+                        "content": "This is derived from the percentage and the focus on application-level questions for nursing diagnosis."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "8"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "7"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "6"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "15%"
+                    }
+                ]
+            },
+            {
+                "id": 12536,
+                "app_id": 23,
+                "category_id": 6,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 319-320.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following examples **best** represents a course suitable for a competency-based curriculum in nursing education?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Patient safety in clinical practice"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Competency-based curricula focus on developing essential skills and competences applicable across various clinical settings and patient demographics."
+                    },
+                    {
+                        "type": "text",
+                        "content": "The course 'Patient safety in clinical practice' spans multiple settings and populations, making it ideal for a competency-based approach in nursing education."
+                    },
+                    {
+                        "type": "text",
+                        "content": "On the other hand, 'Patient safety in pediatric intensive care' and 'Patient safety procedures for elderly care' are more specific to certain age groups, while 'Patient safety and infection control' focuses narrowly on a subtopic within patient safety."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Patient safety in clinical practice"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Patient safety in pediatric intensive care"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Patient safety procedures for elderly care"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Patient safety and infection control"
+                    }
+                ]
+            },
+            {
+                "id": 12555,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 53.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "A student in a graduate nursing program has completed the first semester of coursework. The courses taken and grades received are as follows:"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Course",
+                                "Grade"
+                            ],
+                            [
+                                "Advanced Pathophysiology",
+                                "C"
+                            ],
+                            [
+                                "Evidence-Based Practice",
+                                "B"
+                            ],
+                            [
+                                "Nursing Leadership",
+                                "C"
+                            ],
+                            [
+                                "Healthcare Policy",
+                                "D"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "Based on these final semester grades, the student:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Will be allowed to progress to the next semester"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Graduate nursing programs often have similar progression policies as prelicensure programs, with a minimum grade requirement that must be met for students to continue. Typically, a minimum grade of C is required for nursing courses, whereas a lower grade may be acceptable for non-nursing courses. In this case, the student received passing grades in the courses required for progression."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Will be allowed to progress to the next semester"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Will not be allowed to progress to the next semester"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Will be required to complete successful remediation before being allowed to progress to the next semester"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Will be terminated from the nursing program"
+                    }
+                ]
+            },
+            {
+                "id": 12573,
+                "app_id": 23,
+                "category_id": 9,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 162.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "A nurse educator is supervising a nursing student in a pediatric clinic. The student has frequently expressed an interest in administering a vaccination to understand the procedure and patient interaction better. The nurse educator learns that a patient scheduled for vaccination today has been engaging well with healthcare professionals and is comfortable. When organizing patient assignments, the nurse educator assigns the student to accompany the nurse responsible for administering vaccinations to this particular patient. The nurse educator is demonstrating a teaching model associated with:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Humanism"
+                    },
+                    {
+                        "type": "text",
+                        "content": "In the theory of humanism, the educator's role is to encourage and enable the learner by providing access to appropriate resources without intrusive interference. In this scenario, the nurse educator has taken into strong consideration the individual student's learning needs and has provided access to a learning opportunity without adversely affecting other students or patients."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Humanism"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Constructivism"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Behaviorism"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Social learning theory"
+                    }
+                ]
+            },
+            {
+                "id": 12588,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 54.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "An advanced practice nursing student completed the following courses with the respective grades:"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Course",
+                                "Grade"
+                            ],
+                            [
+                                "N300 Advanced Pathophysiology",
+                                "84%"
+                            ],
+                            [
+                                "N320 Pharmacology",
+                                "81%"
+                            ],
+                            [
+                                "N350 Health Assessment",
+                                "78%"
+                            ],
+                            [
+                                "Bio 210 Genetics",
+                                "85%"
+                            ]
+                        ]
+                    },
+                    {
+                        "type": "text",
+                        "content": "Based on these final grades, the student:"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: Will not be allowed to progress to the next semester"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The grading scale for nursing courses in an advanced practice program generally sets higher standards than non-nursing courses. Typically, the percentage scale for these nursing courses is as follows:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "94% and above is considered an A grade"
+                    },
+                    {
+                        "type": "text",
+                        "content": "87% to 93% is considered a B grade"
+                    },
+                    {
+                        "type": "text",
+                        "content": "80% to 87% is considered a C grade"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Below 80% is considered a failing grade (D)"
+                    },
+                    {
+                        "type": "text",
+                        "content": "In this example, the student earned a 78% in the N350 Health Assessment course, resulting in a grade of D. Since nursing courses require at least a C grade to pass, the student will not be allowed to progress to the next semester."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Will not be allowed to progress to the next semester"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Will be allowed to progress to the next semester"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Will be required to complete successful remediation before being allowed to progress to the next semester"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Will be terminated from the nursing program"
+                    }
+                ]
+            },
+            {
+                "id": 12653,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 61-62.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Review the supporting details to answer the following question."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Which of the following interpretations about the statistical analysis table in this details is correct?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: In item 1, both the item difficulty and the PBCC reflect that the item discriminated well between high-scoring and low-scoring students"
+                    },
+                    {
+                        "type": "text",
+                        "content": "In reference to the statistical analysis table in this details, each of the following statements is true:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "1. In item 1, the difficulty (p-value) of 0.69 and the overall item point biserial correlation coefficient (PBCC) of 0.42 reflect that the item discriminated well between high-scoring and low-scoring students"
+                    },
+                    {
+                        "type": "text",
+                        "content": "2. The negative PBCC of each of the item distractors indicates that low-scoring students chose an incorrect option more often than did high-scoring students."
+                    },
+                    {
+                        "type": "text",
+                        "content": "3. Item 1 is a statistically stable exam item."
+                    },
+                    {
+                        "type": "text",
+                        "content": "4. Item 2 has an acceptable difficulty level of 0.75."
+                    },
+                    {
+                        "type": "text",
+                        "content": "5. In item 2, the correct response, or key, is a poor discriminator with a PBCC of 0.09; furthermore, distractor C has a similar positive PBCC, further identifying the item as a poor discriminator."
+                    },
+                    {
+                        "type": "text",
+                        "content": "6. Item 2 either needs to be revised before being reused or needs to be discarded as an exam item due to its poor reliability."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "In item 1, both the item difficulty and the PBCC reflect that the item discriminated well between high-scoring and low-scoring students"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Item 2 shows that the correct response is a good discriminator with a positive PBCC"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "In item 2, distractors B and D were not effective and should be revised, since students did not select them"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "In item 1, the PBCC of the distractors did not discriminate well between the high-scoring and low-scoring students"
+                    }
+                ],
+                "passage": [
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Item Number",
+                                "Difficulty (p Value)",
+                                "Overall Item PBCC",
+                                "Option",
+                                "Response Proportion",
+                                "PBCC"
+                            ],
+                            [
+                                "1",
+                                "0.69",
+                                "0.42",
+                                "A\nB\n**C**\nD",
+                                "0.03\n0.23\n0.69\n0.05",
+                                "-0.46\n-0.30\n0.42\n-0.28"
+                            ],
+                            [
+                                "2",
+                                "0.75",
+                                "0.09",
+                                "**A**\nB\nC\nD",
+                                "0.75\n0.08\n0.11\n0.06",
+                                "0.09\n-0.28\n0.08\n-0.26"
+                            ]
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12672,
+                "app_id": 23,
+                "category_id": 10,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 354-355.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Which of the following professional development opportunities would be **most** suitable for a part-time clinical nurse educator working in a hospital setting?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: An online course on evidence-based practices for clinical supervision in healthcare settings"
+                    },
+                    {
+                        "type": "text",
+                        "content": "Similar learning needs exist in nursing; however, the exact elements required for the ongoing education of a nurse educator vary greatly. Factors include:"
+                    },
+                    {
+                        "type": "text",
+                        "content": "- the type of faculty appointment"
+                    },
+                    {
+                        "type": "text",
+                        "content": "- whether the faculty is full-time, part-time, or adjunct"
+                    },
+                    {
+                        "type": "text",
+                        "content": "- the specific role and responsibilities within their setting"
+                    },
+                    {
+                        "type": "text",
+                        "content": "The National League for Nursing (NLN) advocates for individualized, flexible development programs for faculty, offered across a variety of formats. A clinical nurse educator in a part-time role in a hospital would benefit most from an online course focusing on evidence-based practices for clinical supervision."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Opportunities such as advanced pharmacology seminars, workshops on interactive teaching methods for classroom settings, and conferences on curriculum development are tailored more towards academic instructors or full-time role educators in classroom environments."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "An online course on evidence-based practices for clinical supervision in healthcare settings"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "A seminar on advanced pharmacology geared towards academic instructors"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "A workshop on interactive teaching methods for classroom settings"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "A conference on curriculum development for nursing education"
+                    }
+                ]
+            },
+            {
+                "id": 12704,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 61.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "A group of newly trained nurse educators are reviewing student responses from a recent nursing skills assessment. Based on the item discrimination index as represented in the attached table, which of the following statements is **accurate**?"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Item Number",
+                                "Discrimination Index (d-index)"
+                            ],
+                            [
+                                "1",
+                                "0.45"
+                            ],
+                            [
+                                "2",
+                                "0.60"
+                            ],
+                            [
+                                "3",
+                                "0.28"
+                            ],
+                            [
+                                "4",
+                                "0.50"
+                            ]
+                        ]
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "The discrimination index (d-index) measures how well an item differentiates between high and low performers. An acceptable d-index typically ranges from 0.30 to 0.70."
+                    },
+                    {
+                        "type": "text",
+                        "content": "According to the discrimination index in this table, items 1, 2, and 4 all fall within the acceptable range and demonstrate good discrimination. Item 3, with a d-index of 0.28, falls just below the acceptable level and may require revision."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Items 1, 2, and 4 demonstrate good discrimination."
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Items 2 and 3 demonstrate good discrimination."
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Only items 1 and 4 demonstrate good discrimination."
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Items 1 and 3 need revision due to poor discrimination."
+                    }
+                ]
+            },
+            {
+                "id": 12741,
+                "app_id": 23,
+                "category_id": 8,
+                "reference": "Certified Nurse Educator Review Book: The Official NLN Guide to the CNE Exam 2nd Edition. Pg 57.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "Interpret the feedback form below to identify which element is missing, hindering comprehensive assessment of nursing students' clinical skills:"
+                    },
+                    {
+                        "type": "table",
+                        "content": [
+                            [
+                                "Element",
+                                "Description"
+                            ],
+                            [
+                                "Measurable criteria",
+                                "Defines clear and quantifiable performance metrics"
+                            ],
+                            [
+                                "Performance expectations",
+                                "Outlines the standards required to achieve different grades or levels"
+                            ],
+                            [
+                                "Area descriptions",
+                                "Describes the specific dimensions or components being evaluated"
+                            ],
+                            [
+                                "Feedback from scorer",
+                                ""
+                            ]
+                        ]
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "**Correct answer:** Feedback from scorer"
+                    },
+                    {
+                        "type": "text",
+                        "content": "A comprehensive assessment feedback form should include measurable criteria, performance expectations, and descriptions of areas being evaluated."
+                    },
+                    {
+                        "type": "text",
+                        "content": "Ideally, it should also incorporate feedback from the individual scorer, allowing students to understand where they can improve."
+                    },
+                    {
+                        "type": "text",
+                        "content": "In this case, the feedback from the scorer is missing, which is crucial for detailed student understanding."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "Feedback from scorer"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "Measurable criteria"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "Performance expectations"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "Area descriptions"
+                    }
+                ]
+            },
+            {
+                "id": 12787,
+                "app_id": 23,
+                "category_id": 6,
+                "reference": "Certified Nurse Educator (CNE) Review Manual 4th Edition. Pg 312.",
+                "question": [
+                    {
+                        "type": "text",
+                        "content": "**View the supporting details to answer the following question.**"
+                    },
+                    {
+                        "type": "text",
+                        "content": "There are five different teaching styles often used in nursing education: lecture-based, demonstrative, collaborative, facilitative, and self-directed. If the lecture-based style is placed in the number one spot on this table, and the self-directed style is placed in the number five spot on this table, in what order, logically, should the remaining teaching styles be inserted into the table?"
+                    }
+                ],
+                "explanation": [
+                    {
+                        "type": "text",
+                        "content": "Answer: 2. demonstrative, 3. collaborative, 4. facilitative"
+                    },
+                    {
+                        "type": "text",
+                        "content": "There are five teaching styles often used in nursing education. These styles range along a continuum from those that are lecture-based, where the educator retains most of the knowledge and control, to those that are self-directed, where students possess the necessary knowledge and skills to guide their own learning."
+                    },
+                    {
+                        "type": "text",
+                        "content": "After the lecture-based style, the logical order would be demonstrative, collaborative, and facilitative, terminating with the self-directed style."
+                    }
+                ],
+                "answer": [
+                    {
+                        "type": "text",
+                        "content": "2. demonstrative, 3. collaborative, 4. facilitative"
+                    }
+                ],
+                "distractor1": [
+                    {
+                        "type": "text",
+                        "content": "2. collaborative, 3. facilitative, 4. demonstrative"
+                    }
+                ],
+                "distractor2": [
+                    {
+                        "type": "text",
+                        "content": "2. facilitative, 3. collaborative, 4. demonstrative"
+                    }
+                ],
+                "distractor3": [
+                    {
+                        "type": "text",
+                        "content": "2. demonstrative, 3. facilitative, 4. collaborative"
+                    }
+                ]
+            }
+        ]
+    }
+}
