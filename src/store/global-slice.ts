@@ -6,7 +6,7 @@ interface GlobalSlice {
   questions: Question[];
   answeredQuestions: AnsweredQuestion[];
   activeQuiz: {
-    currentQuestionId: Question['id'];
+    currentQuestionIndex: number;
     questions: Question[];
   } | undefined;
 }
@@ -29,7 +29,7 @@ export const globalSlice = createSlice({
     },
     setActiveQuizAction(state, { payload: questions }: PayloadAction<Question[]>) {
       state.activeQuiz = {
-        currentQuestionId: questions[0].id,
+        currentQuestionIndex: 0,
         questions: questions,
       };
     },
