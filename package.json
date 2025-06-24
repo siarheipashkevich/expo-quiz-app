@@ -28,7 +28,7 @@
     "react-redux": "9.2.0"
   },
   "devDependencies": {
-    "@babel/core": "7.26.0",
+    "@babel/core": "7.27.4",
     "@types/react": "18.3.16",
     "typescript": "5.3.3"
   },
